@@ -10,22 +10,26 @@
     {
       "name": "openfl",
       "type": "haxelib",
-      "version": "9.3.2"
+      "version": "9.3.3"
     },
     {
       "name": "flixel",
-      "type": "haxelib",
-      "version": "5.5.0"
+      "type": "git",
+      "dir": null,
+      "ref": "dev",
+      "url": "https://github.com/beihu235/flixel"
     },
     {
       "name": "flixel-addons",
       "type": "haxelib",
-      "version": "3.2.1"
+      "version": "3.2.2"
     },
     {
       "name": "flixel-ui",
-      "type": "haxelib",
-      "version": null
+      "type": "git",
+      "dir": null,
+      "ref": "dev",
+      "url": "https://github.com/MaoPou/flixel-ui-beauty"
     },
     {
       "name": "flixel-tools",
@@ -40,14 +44,18 @@
       "url": "https://github.com/beihu235/hxcpp"
     },
     {
-      "name": "hxCodec",
-      "type": "haxelib",
-      "version": "2.6.0"
+      "name": "hxvlc",
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/beihu235/hxvlc-1.8.1"
     },
     {
       "name": "SScript",
-      "type": "haxelib",
-      "version": "8.1.6"
+      "type": "git",
+      "dir": null,
+      "ref": "main",
+      "url": "https://github.com/beihu235/SScript-8.1.6"
     },
     {
       "name": "hscript",
@@ -73,8 +81,8 @@
       "name": "linc_luajit",
       "type": "git",
       "dir": null,
-      "ref": "master",
-      "url": "https://github.com/superpowers04/linc_luajit.git"
+      "ref": "main",
+      "url": "https://github.com/MaoPou/linc_luajit-rewriten.git"
     },
     {
       "name": "flxanimate",
@@ -88,14 +96,19 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/NovaFlare-Engine-Concentration/extension-androidtools"
+      "url": "https://github.com/MaysLastPlay77/extension-androidtools.git"
     },
     {
       "name": "funkin.vis",
       "type": "git",
       "dir": null,
-      "ref": "38261833590773cb1de34ac5d11e0825696fc340",
-      "url": "https://github.com/FunkinCrew/funkVis"
+      "ref": "main",
+      "url": "https://github.com/beihu235/funkVis-FrequencyFixed"
+    },
+    {
+      "name": "hxCodec",
+      "type": "haxelib",
+      "version": null
     },
     {
       "name": "grig.audio",
@@ -105,4 +118,4 @@
       "url": "https://gitlab.com/haxe-grig/grig.audio.git"
     }
   ]
-}
+    }
